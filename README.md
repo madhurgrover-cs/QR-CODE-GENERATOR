@@ -2,6 +2,9 @@
 
 A browser-only QR code generator and designer built with **React + TypeScript + Vite**. Enter content, customise the look, watch the preview update live, and download the result. Nothing is sent to a server.
 
+DEPLOYED LINK
+https://qr-task-alpha.vercel.app
+
 ## Features
 
 - **QR types:** URL, plain text, email (`mailto:` with subject/body), phone (`tel:`) and Wi-Fi (`WIFI:` with WPA/WEP/open and hidden networks). Each type shows its own inputs.
